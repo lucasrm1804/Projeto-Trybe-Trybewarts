@@ -58,3 +58,16 @@ main {
   height: 25px;
   width: 25%;
 }
+
+#one , #two , #three , #four , #five , #six , #seven , #eight , #nine , #ten {
+  margin: 0;
+  padding: 0;
+}
+
+#label-rate {
+  width: 100px;
+}
+
+#avaliation {
+  display: flex;
+}
