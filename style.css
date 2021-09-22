@@ -28,10 +28,11 @@ main {
 
 #evaluation-form {
   display: flex;
+  flex-flow: column;
   flex-wrap: wrap;
   width: 675px;
-  flex-direction: column;
-  justify-content: space-around;
+
+  /* justify-content: space-around; */
 }
 
 #trybewarts-forms-logo {
