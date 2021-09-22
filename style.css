@@ -28,10 +28,32 @@ main {
 
 #evaluation-form {
   display: flex;
+  flex-wrap: wrap;
   width: 675px;
   flex-direction: column;
+  justify-content: space-around;
 }
 
 #trybewarts-forms-logo {
   height: 500px;
+}
+
+#input-name {
+  width: 30%;
+  height: 20px;
+}
+
+#input-lastname {
+  width: 50%;
+  height: 20px;
+}
+
+#input-email {
+  height: 20px;
+  width: 50%;
+}
+
+#house {
+  height: 25px;
+  width: 25%;
 }
