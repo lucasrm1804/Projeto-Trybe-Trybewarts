@@ -1,12 +1,22 @@
 .header {
   display: flex;
   background-color: rgb(50, 167, 145);
-  height: 50px;
+  height: 70px;
   justify-content: space-between;
   justify-items: center;
+  color: white;
 }
 
 .trybewarts-login {
   display: flex;
-  padding: 15px;
+  padding: 20px;
+}
+
+main {
+  display: flex;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
 }
