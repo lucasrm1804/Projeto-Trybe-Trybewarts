@@ -12,6 +12,16 @@
   padding: 20px;
 }
 
+#trybewarts-header-title {
+  width: fit-content;
+  margin: 0;
+  align-self: center;
+}
+
+input {
+  margin-right: 7px;
+}
+
 main {
   display: flex;
 }
@@ -19,4 +29,5 @@ main {
 #evaluation-form {
   display: flex;
   width: 675px;
+  flex-direction: column;
 }
