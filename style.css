@@ -3,6 +3,7 @@
   background-color: rgb(50, 167, 145);
   height: 50px;
   justify-content: space-between;
+  justify-items: center;
 }
 
 .trybewarts-login {
