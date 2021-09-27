@@ -31,8 +31,6 @@ main {
   flex-flow: column;
   flex-wrap: wrap;
   width: 675px;
-
-  /* justify-content: space-around; */
 }
 
 #trybewarts-forms-logo {
